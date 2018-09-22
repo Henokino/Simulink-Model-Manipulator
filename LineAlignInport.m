@@ -1,4 +1,4 @@
-%% Function align line and its imediate source block
+%% Function align line and its imediate source block_
 
 function SrcBlockHandle = LineAlignInport(MotherBlock,dx,dy)
 
