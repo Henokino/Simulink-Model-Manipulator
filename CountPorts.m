@@ -1,5 +1,6 @@
 %% fucntion CountPorts
-%experimenting with Git, commit(=merge) make direct changes to master branch (trunk)
+%Branch 2 updating to branch 2
+
 
 function [PortPositions, Inp_idx, Outp_idx] = CountPorts(PortHandles,TypeOfPort)
  
